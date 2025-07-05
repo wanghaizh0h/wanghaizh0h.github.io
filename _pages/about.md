@@ -24,3 +24,8 @@ redirect_from:
 {% include_relative includes/projects.md %}
 
 {% include_relative includes/others.md %}
+
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+  Last updated: {{ site.time | date: '%Y-%m-%d %H:%M:%S' }} CST (UTC+08:00)
+</div>
+
