@@ -25,7 +25,7 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<div style="text-align: center; font-size: 1.0em; color: #666;margin-top: 1em;">
+<div style="text-align: center; font-size: 1.0em; color: #666;margin-top: 0.9em;">
   Last updated: {{ site.time | date: '%Y-%m-%d %H:%M' }} CST (UTC+08:00)
 </div>
 
