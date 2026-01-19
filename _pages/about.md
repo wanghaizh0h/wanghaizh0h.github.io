@@ -17,12 +17,6 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/reviewing.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/projects.md %}
-
 {% include_relative includes/others.md %}
 
 <div style="text-align: center; font-size: 1.0em; color: #666;margin-top: 0.9em;">
